@@ -1,4 +1,4 @@
-# Super-store-sales
+# SuperStore-Analysis
  Superstore Sales Report – Power BI Project
 📂 File Name: superstores_sales_report.pbix
 
